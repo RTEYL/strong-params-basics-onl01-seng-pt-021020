@@ -30,6 +30,6 @@ class PostsController < ApplicationController
 	private
 
 	def post_params(*args)
-		
+
 	end
 end
